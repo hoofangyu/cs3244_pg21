@@ -2,3 +2,5 @@
 *.csv
 *.gz
 /data
+keras_tuner_dir/keras_tuner/oracle.json
+keras_tuner_dir/keras_tuner/trial_0000/trial.json
